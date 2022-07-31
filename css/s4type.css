@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3074238, 2015-08-12T01:28:31-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: BlackMonday by Dunwich Type Founders
+ * URL: http://www.myfonts.com/fonts/dunwich/black-monday/regular/
+ * Copyright: Copyright (c) 2009 by James Puckett. Design based on the work of Charles Coiner and Morris Fuller Benton. Production assistance by Silas Dilworth. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3074238
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("http://hello.myfonts.net/count/2ee8be");
+
+  
+@font-face {font-family: 'BlackMonday';src: url('../fonts/2EE8BE_0_0.eot');src: url('../webfonts/2EE8BE_0_0d41d.html?#iefix') format('embedded-opentype'),url('../fonts/2EE8BE_0_0.woff2') format('woff2'),url('../fonts/2EE8BE_0_0.woff') format('woff'),url('../fonts/2EE8BE_0_0.ttf') format('truetype');}
+ 
